@@ -1,0 +1,10 @@
+.imagem-principal {
+    width: 25%;
+    height: 30%;
+}
+
+.imagem-secundaria {
+    width: 15%;
+    height: 20%;
+    display: block;
+}
